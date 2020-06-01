@@ -1,0 +1,2 @@
+# deeplearning
+lecture of deeplearning 
